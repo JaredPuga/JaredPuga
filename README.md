@@ -39,4 +39,4 @@ Welcome to my profile! I am a student at TecNM Campus Mérida. I really enjoy co
 ### Activity Trends
 
 
-**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/JaredPuga/count.svg)
+**Page Views**(Counting since 04th Jan 2023): ![Visitor Count](https://profile-counter.glitch.me/JaredPuga/count.svg)
